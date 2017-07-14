@@ -5,3 +5,5 @@ Testing **git** for class.
 - cool things
 - *yeah!*
 
+###here is an h3
+git is really cool!
